@@ -1,3 +1,7 @@
+#Clever way of Reversing an List in Python using Python negative indexes :-P
+
+#By Ralphie Perez
+
 num = [3,2,4,1,0,2,3,4,5,5]
 
 
